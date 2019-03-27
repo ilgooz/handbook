@@ -1,0 +1,27 @@
+{
+  "name": "core.wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^0.14.10"
+  },
+  "devDependencies": {
+    "webpack-dev-middleware": "^3.6.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesg-foundation/core.wiki.git"
+  },
+  "keywords": [],
+  "author": "Anthony Estebe <anthony@mesg.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesg-foundation/core.wiki/issues"
+  },
+  "homepage": "https://github.com/mesg-foundation/core.wiki#readme"
+}

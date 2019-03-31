@@ -33,6 +33,8 @@ head:
     - hid: 'og:image'
       property: 'og:image'
       content: 'https://about.mesg.com/og-image.jpg'
+  - - script
+    - src: https://p.trellocdn.com/embed.min.js
 themeConfig:
   logo: /logo-light.png
   searchMaxSuggestions: 15

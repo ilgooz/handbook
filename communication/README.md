@@ -14,7 +14,12 @@ Some discussion might happen on Telegram but this should happen as little as pos
 
 ### Task related discussion
 
-All discussions related to a specific work task should happen on Trello in order to keep this organized. Your task is likely to be in **[this board](https://trello.com/b/Cg1ruDVu/mesg-general-activity-schedule)**
+All discussions related to a specific work task should happen on Trello in order to keep this organized. Your task is likely to be in one of the following boards:
+
+<div class="row">
+  <TrelloBoard url="https://trello.com/b/Cg1ruDVu/mesg-general-activity-schedule" title="General Activity" />
+  <TrelloBoard url="https://trello.com/b/oCIB1aEo/mesg-development-roadmap" title="Development Roadmap" />
+</div>
 
 Of course you can always talk with your coworkers on Discord or in live but make sure to log all progress on the Trello card.
 
@@ -23,7 +28,7 @@ Of course you can always talk with your coworkers on Discord or in live but make
 Discussions with other persons outside of MESG can be complicated and vary depending of the preferences of this person(s). Try to always prioritize the channel of communication this way:
 
 - **Email**: Easy to track and search. Easy to forward and have people who join (using cc), bad for real time discussions
-- **Telegram**: Good for real time discussions but hard to search
-- **Skype**: Good for voice conversations but really hard to track
+- **Telegram**: Good for real time discussions, hard to search
+- **Skype**: Good for voice conversations, really hard to track
 
 Make sure to use the best tool based on your needs, also when a conversation is interesting make **sure to add the relevant persons** in the discussion.

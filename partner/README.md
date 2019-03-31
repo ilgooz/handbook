@@ -1,3 +1,7 @@
+# Partner
+
+[[toc]]
+
 ## Research
 ## Discovery
 ## Agreement

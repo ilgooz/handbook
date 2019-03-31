@@ -1,3 +1,0 @@
-## Trips
-## Courses
-## Other

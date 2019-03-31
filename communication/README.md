@@ -1,10 +1,14 @@
+# Communication
+
+[[toc]]
+
 ## Internal
 
 ### Daily discussions
 
-Daily discussions happen on Discord https://discordapp.com/invite/SaZ5HcE.
+Daily discussions happen on [Discord](https://discordapp.com/invite/SaZ5HcE).
 
-Make sure to have the role `team` in order to access more discussion channels. [See the list of all roles](./marketing/channels/chat)
+Make sure to have the role `team` in order to access more discussion channels. [See the list of all roles](/marketing/#chat)
 
 Some discussion might happen on Telegram but this should happen as little as possible or only for 1 to 1 conversation as Telegram is not really user friendly for group conversations.
 

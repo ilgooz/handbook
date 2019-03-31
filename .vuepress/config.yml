@@ -2,7 +2,7 @@ title: MESG Guidelines
 description: All you need to know to work at MESG
 markdown:
   toc:
-    includeLevel: [2]
+    includeLevel: [1, 2, 3]
 head:
   - - link
     - rel: apple-touch-icon
@@ -44,3 +44,25 @@ themeConfig:
   docsBranch: master
   editLinks: true
   editLinkText: Help us improve this page!
+  sidebar: 'auto'
+  sidebarDepth: 6
+  displayAllHeaders: true
+  nav:
+    - text: Categories
+      items:
+        - text: Communication
+          link: /communication/
+        - text: Employees
+          link: /employees/
+        - text: Meeting
+          link: /meeting/
+        - text: Development
+          link: /development/
+        - text: User Experience
+          link: /ux/
+        - text: Marketing
+          link: /marketing/
+        - text: Partner
+          link: /partner/
+        - text: Support
+          link: /support/

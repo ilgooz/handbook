@@ -20,11 +20,19 @@ Think also about who should join this meeting and invite only the relevant peopl
 Meetings should not be longer than 1 hour. Ideally 15min should be enough.
 :::
 
-Every meeting should have an event on Google Calendar with all the relevant people invited. 
+Every meeting should have an [event on Google Calendar](https://calendar.google.com/calendar/r/eventedit) with all the relevant people invited and a Hangouts Meet conference if needed.
+
+<img src="/meeting.png" width="256px">
 
 ## Availabilities
 
 Make sure that everyone involve in the meeting is available, if not, then the meeting need to be postponed as every participant should be important to the meeting and spectators should not have their time wasted if they are not required.
+
+::: tip
+Make sure to edit your timezone especially if you are traveling.
+
+[https://calendar.google.com/calendar/r/settings](https://calendar.google.com/calendar/r/settings)
+:::
 
 ## Goals
 

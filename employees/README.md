@@ -73,7 +73,9 @@ Consider a week notice for less than a week holiday and two weeks notice for mor
 
 There are still some rules to make sure that everything works perfectly even when you are not here.
 
-Add it to this [company level calendar](https://calendar.google.com/calendar/embed?src=mesg.tech_36toa09ndvlltajoke45r0v89s%40group.calendar.google.com&ctz=Asia%2FBangkok) with the following format:
+Add it to the company level calendar [MESG Availabilities](https://calendar.google.com/calendar/embed?src=mesg.tech_36toa09ndvlltajoke45r0v89s%40group.calendar.google.com) with the following format:
+
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;src=mesg.tech_36toa09ndvlltajoke45r0v89s%40group.calendar.google.com" style="border-width:0" height="300" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ```
 [TYPE] - NAME (reason)

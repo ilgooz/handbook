@@ -62,8 +62,29 @@ Please join the [Discord](https://discordapp.com/invite/SaZ5HcE) and make sure t
 Create a [Trello account](https://trello.com/signup) and make sure to be added to the relevant boards.
 
 ## Incentives
-### Bonuses
-### Token
+
+Bonuses are calculated every 2 quarters based on the work and objectives of the this period.
+
+A certain bonus value will be **estimated in USD** and **distributed in token** with following this distribution:
+- **40%** of the bonus for the **first** quarter
+- **20%** of the bonus for the **second** quarter
+- **20%** of the bonus for the **third** quarter
+- **10%** of the bonus for the **fourth** quarter
+- **10%** of the bonus for the **fifth** quarter
+
+Bonuses are cumulative over the quarters.
+
+#### Bonus distribution example:
+
+| Q2 2019 | Q3 2019 | Q4 2019 | Q1 2020 | Q2 2020 | Q3 2020 | Q4 2020 |  ...  |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :---: |
+|   40%   |   20%   |   20%   |   10%   |   10%   |         |         |       |
+|         |         |   40%   |   20%   |   20%   |   10%   |   10%   |       |
+|         |         |         |         |   40%   |   20%   |   20%   |  10%  |
+
+This distribution is also depending on the [Algorithmic Token Distribution (ATD)](/token/#algorithmic-token-distribution) and should follow its rules.
+
+MESG will offer the possibility to have programmatic sales in order to reduce the risk when selling your tokens (if you want to sell your token) and to let you have USD/USDT equivalence for your token always following the ATD rules.
 
 ## Expenses
 

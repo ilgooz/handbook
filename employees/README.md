@@ -10,9 +10,56 @@ List of tests
 - [Developer](./tests/developer.md)
 
 ### Interview
-### Negotiation
+
+Interview by video call or in real life is mandatory.
+
+Goal of this interview:
+- Estimate if the candidate can fit in the team
+- Estimate if the candidate can deliver the work needed
+- Measure motivation / excitement of the candidate about MESG
+- Establish a base of discussion for remuneration
+
+### Remuneration
+
+After this interview a proposition is made to the candidate. Once both parts agreed on the remuneration, remuneration need to be written in [this document](https://docs.google.com/spreadsheets/d/1EsEL8jrlZ45d4cXODXSmeZOH7GQHZpmVX3gxJ1zSTpQ/edit#gid=0)
+
 ### Contract
-### Onboarding
+
+Every employee of MESG Foundation will be hired as contractors. They will need to provide an invoice every month with the price defined during the negotiation.
+
+A template for this contract can be found [here](https://docs.google.com/document/d/1x2zHJl5Jb-_2_65tvi7OSB21YddRGB-q-pGU4femdM0/edit)
+
+### On-boarding
+
+Add a new employee to Google Suite [https://admin.google.com/ac/users](https://admin.google.com/ac/users).
+
+#### Google Drive
+
+Copy the [MESG Foundation directory](https://drive.google.com/drive/folders/173CZWBJZpd5OhqwvKEp8jEKUhrizbWaI) in your drive.
+
+You will have access to all the resources you need for your work:
+- [Business](https://drive.google.com/drive/folders/18gvb5sZYFN9e-G76HKCdOYiS-cV4Lbht)
+- [Finance](https://drive.google.com/drive/folders/1VBHt6NUttIqRSTfaPMU5-Dh2bnD7MEwl)
+- [HR](https://drive.google.com/drive/folders/1QVSgkYkGnfh7HcTP6Nx5HGQ5ceupegQZ)
+- [Legal](https://drive.google.com/drive/folders/1Ys_0tTInicF4EFQ-ZpTsKOxc2MRuKbAe)
+- [Marketing](https://drive.google.com/drive/folders/1gkk3lWgGuZxmNvVyBXTaHsEom8O5m7z3)
+- [Product](https://drive.google.com/drive/folders/1x3ESgSLFDJsvXWnVq7S_W2mU1mAgcD5M)
+- [Strategy](https://drive.google.com/drive/folders/1kZIioQuVRFYGMk7bKIrOPCYTEUU-6ZBj)
+- [Visual Identity](https://drive.google.com/drive/folders/1FzJrUKWBu3BfM2MzPZmPZy6iW7tlybsi)
+
+It is unlikely that you will have access to all these directories. If you think your work requires to be part of a certain directory please claim an access.
+
+::: warning
+Do not create any directory inside this one. If you think one directory is missing, please let someone with the "MESG Foundation" access know about it and create the directory if needed.
+:::
+
+#### Discord
+
+Please join the [Discord](https://discordapp.com/invite/SaZ5HcE) and make sure to have the [role `team`](/marketing/#chat)
+
+#### Trello
+
+Create a [Trello account](https://trello.com/signup) and make sure to be added to the relevant boards.
 
 ## Incentives
 ### Bonuses

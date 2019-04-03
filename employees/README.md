@@ -61,30 +61,35 @@ Please join the [Discord](https://discordapp.com/invite/SaZ5HcE) and make sure t
 
 Create a [Trello account](https://trello.com/signup) and make sure to be added to the relevant boards.
 
-## Incentives
+## Bonuses
 
-Bonuses are calculated every 2 quarters based on the work and objectives of the this period.
+Bonuses are calculated every semesters based on the work and objectives for the this period.
 
-A certain bonus value will be **estimated in USD** and **distributed in token** with following this distribution:
-- **40%** of the bonus for the **first** quarter
-- **20%** of the bonus for the **second** quarter
-- **20%** of the bonus for the **third** quarter
-- **10%** of the bonus for the **fourth** quarter
-- **10%** of the bonus for the **fifth** quarter
+A certain bonus value will be **estimated in USD** and **distributed in token***.
+The number of tokens will be calculated at the date of the bonus calculation and will be distributed as follow:
+- **40%** of the bonus **immediately**
+- **15%** of the bonus **6 months** later
+- **15%** of the bonus **12 months** later
+- **10%** of the bonus **18 months** later
+- **10%** of the bonus **24 months** later
+- **10%** of the bonus **30 months** later
 
-Bonuses are cumulative over the quarters.
-
-#### Bonus distribution example:
-
-| Q2 2019 | Q3 2019 | Q4 2019 | Q1 2020 | Q2 2020 | Q3 2020 | Q4 2020 |  ...  |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :---: |
-|   40%   |   20%   |   20%   |   10%   |   10%   |         |         |       |
-|         |         |   40%   |   20%   |   20%   |   10%   |   10%   |       |
-|         |         |         |         |   40%   |   20%   |   20%   |  10%  |
+::: tip
+Bonuses can be accumulated cumulative every semesters.
+:::
 
 This distribution is also depending on the [Algorithmic Token Distribution (ATD)](/token/#algorithmic-token-distribution) and should follow its rules.
 
-MESG will offer the possibility to have programmatic sales in order to reduce the risk when selling your tokens (if you want to sell your token) and to let you have USD/USDT equivalence for your token always following the ATD rules.
+#### Bonus distribution:
+
+| Q2 2019 | Q4 2019 | Q2 2020 | Q4 2020 | Q2 2021 | Q4 2021 | Q2 2022 | Q4 2022 | ... |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-: |
+|   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |         |         |     |
+|         |   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |         |     |
+|         |         |   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |     |
+|         |         |         |   40%   |   15%   |   15%   |   10%   |   10%   | 10% |
+
+_* Bonuses can be as well paid in USD instead of MESG token depending on the cash-flow of the MESG Foundation and on your preferences._
 
 ## Expenses
 

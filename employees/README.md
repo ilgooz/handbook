@@ -61,6 +61,12 @@ Please join the [Discord](https://discordapp.com/invite/SaZ5HcE) and make sure t
 
 Create a [Trello account](https://trello.com/signup) and make sure to be added to the relevant boards.
 
+#### Github
+
+Create a [Github account](https://github.com/join) and watch the [handbook repository](https://github.com/mesg-foundation/handbook) to get notifications on every changes in the MESG Foundation.
+
+<iframe src="https://ghbtns.com/github-btn.html?user=mesg-foundation&repo=handbook&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+
 ## Incentives
 ### Bonuses
 ### Token

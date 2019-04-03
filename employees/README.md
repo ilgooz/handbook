@@ -67,6 +67,10 @@ Create a [Github account](https://github.com/join) and watch the [handbook repos
 
 <iframe src="https://ghbtns.com/github-btn.html?user=mesg-foundation&repo=handbook&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
+#### Other
+
+Finally you can send them a cool t-shirt and/or polo of MESG with some stickers :)
+
 ## Incentives
 ### Bonuses
 ### Token

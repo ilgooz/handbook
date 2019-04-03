@@ -92,7 +92,7 @@ This distribution is also depending on the [Algorithmic Token Distribution (ATD)
 | Bonus #3 |         |         |   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |     |
 | Bonus #4 |         |         |         |   40%   |   15%   |   15%   |   10%   |   10%   | 10% |
 
-_* Bonuses can be as well paid in USD instead of MESG token depending on the cash-flow of the MESG Foundation and on your preferences._
+_* The ratio between USD and token will be decided by MESG Foundation._
 
 ## Expenses
 

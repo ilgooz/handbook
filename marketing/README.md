@@ -52,13 +52,7 @@
   - Description of main changes
   - (Optional) Add a GIF :)
 
-### Event
-
-Events need to be considered as [announcement](#announcement) and should follow the same process for announcement.
-
-They might have some extra steps to ensure the good preparation of the event.
-
-#### Hackathon
+### Hackathon
 
 - Audit existing technical onboarding documentation
   - To ensure minimum friction and to limit support interaction, all [existing onboarding material](/ux/) must be audited against previous support engagement and updated accordingly.
@@ -119,7 +113,7 @@ They might have some extra steps to ensure the good preparation of the event.
   - How well as the Hackathon contributed to MESG’s KPIs
 
 
-#### Conference/Booth
+### Conference/Booth
 
 Make sure to be ready for a conference:
 

@@ -65,8 +65,11 @@ Create a [Trello account](https://trello.com/signup) and make sure to be added t
 
 Bonuses are calculated every semesters based on the work and objectives for the this period.
 
-A certain bonus value will be **estimated in USD** and **distributed in token***.
-The number of tokens will be calculated at the date of the bonus calculation and will be distributed as follow:
+Bonus value will be **estimated in USD** but will be **distributed in token and/or in USD***.
+
+The bonus' token rate will be the one of the day of the bonus
+
+The distribution of this bonus will be:
 - **40%** of the bonus **immediately**
 - **15%** of the bonus **6 months** later
 - **15%** of the bonus **12 months** later
@@ -82,12 +85,12 @@ This distribution is also depending on the [Algorithmic Token Distribution (ATD)
 
 #### Bonus distribution:
 
-| Q2 2019 | Q4 2019 | Q2 2020 | Q4 2020 | Q2 2021 | Q4 2021 | Q2 2022 | Q4 2022 | ... |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-: |
-|   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |         |         |     |
-|         |   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |         |     |
-|         |         |   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |     |
-|         |         |         |   40%   |   15%   |   15%   |   10%   |   10%   | 10% |
+|          | Q2 2019 | Q4 2019 | Q2 2020 | Q4 2020 | Q2 2021 | Q4 2021 | Q2 2022 | Q4 2022 | ... |
+| :------- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-: |
+| Bonus #1 |   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |         |         |     |
+| Bonus #2 |         |   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |         |     |
+| Bonus #3 |         |         |   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |     |
+| Bonus #4 |         |         |         |   40%   |   15%   |   15%   |   10%   |   10%   | 10% |
 
 _* Bonuses can be as well paid in USD instead of MESG token depending on the cash-flow of the MESG Foundation and on your preferences._
 

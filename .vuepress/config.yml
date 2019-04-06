@@ -2,7 +2,7 @@ title: MESG Guidelines
 description: All you need to know to work at MESG
 markdown:
   toc:
-    includeLevel: [1, 2, 3]
+    includeLevel: [2, 3]
 head:
   - - link
     - rel: apple-touch-icon

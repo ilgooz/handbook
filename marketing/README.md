@@ -144,7 +144,8 @@ Categories:
 
 The [MESG Discord]() is for the tech community to have a place to talk about MESG and have a close discussion with the team. 
 
-Roles:
+#### Roles:
+
 - [MESG core team] (<span style="color:green">green</span>)
   - Core team member
 - [Moderator] (<span style="color:blue">blue</span>)
@@ -152,7 +153,8 @@ Roles:
 - [Contributor] (<span style="color:purple">purple</span>)
   - User who actually contributed to the open source code or submitted MESG Application/Services.
 
-Channels:
+#### Channels:
+
 - **#announcement**: Reserved for [MESG core team] to publish announcement about MESG.
 - **#general**: General discussions about MESG.
 - **#help**: To get help for anything related about MESG. This one should have a link to the [forum](#forum) too to quickly redirect people to existing answers.

@@ -30,6 +30,10 @@ heroImage: /logo.png
     <p>Spread the MESG</p>
   </div>
   <div class="feature">
+    <h2><router-link to="/token/">MESG Token</router-link></h2>
+    <p>MESG Token</p>
+  </div>
+  <div class="feature">
     <h2><router-link to="/partner/">Partner</router-link></h2>
     <p>Partner on-boarding</p>
   </div>

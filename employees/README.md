@@ -71,9 +71,38 @@ Create a [Github account](https://github.com/join) and watch the [handbook repos
 
 Finally you can send them a cool t-shirt and/or polo of MESG with some stickers :)
 
-## Incentives
-### Bonuses
-### Token
+## Bonuses
+
+Bonuses are calculated every semesters based on the work and objectives for the this period.
+
+Bonus value will be **estimated in USD** but will be **distributed in token and/or in USD***.
+
+The bonus' token rate will be the one of the day of the bonus
+
+The distribution of this bonus will be:
+- **40%** of the bonus **immediately**
+- **15%** of the bonus **6 months** later
+- **15%** of the bonus **12 months** later
+- **10%** of the bonus **18 months** later
+- **10%** of the bonus **24 months** later
+- **10%** of the bonus **30 months** later
+
+::: tip
+Bonuses can be accumulated cumulative every semesters.
+:::
+
+This distribution is also depending on the [Algorithmic Token Distribution (ATD)](/token/#algorithmic-token-distribution) and should follow its rules.
+
+#### Bonus distribution:
+
+|          | Q2 2019 | Q4 2019 | Q2 2020 | Q4 2020 | Q2 2021 | Q4 2021 | Q2 2022 | Q4 2022 | ... |
+| :------- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-: |
+| Bonus #1 |   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |         |         |     |
+| Bonus #2 |         |   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |         |     |
+| Bonus #3 |         |         |   40%   |   15%   |   15%   |   10%   |   10%   |   10%   |     |
+| Bonus #4 |         |         |         |   40%   |   15%   |   15%   |   10%   |   10%   | 10% |
+
+_* The ratio between USD and token will be decided by MESG Foundation._
 
 ## Expenses
 

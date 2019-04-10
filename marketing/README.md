@@ -141,6 +141,26 @@ Categories:
 - [Development](https://forum.mesg.com/c/development): Discussions related to the development of MESG
 
 ### Chat
+
+The [MESG Discord]() is for the tech community to have a place to talk about MESG and have a close discussion with the team. 
+
+Roles:
+- [MESG core team] (<span style="color:green">green</span>)
+  - Core team member
+- [Moderator] (<span style="color:blue">blue</span>)
+  - User from the community involved in the project
+- [Contributor] (<span style="color:purple">purple</span>)
+  - User who actually contributed to the open source code or submitted MESG Application/Services.
+
+Channels:
+- **#announcement**: Reserved for [MESG core team] to publish announcement about MESG.
+- **#general**: General discussions about MESG.
+- **#help**: To get help for anything related about MESG. This one should have a link to the [forum](#forum) too to quickly redirect people to existing answers.
+- **#trading**: A channel to talk about trading about the MESG Token.
+- **#dev**: Discussion about the development of MESG and to interact with MESG Core team developers and contributors.
+- **#random**: For any random things...
+- **#moderators**: Reserved for [Moderator] to notify other moderators and resolve conflicts as well as having a private channel to talk with each other.
+
 ### Blog
 #### Frequency
 #### Monitoring

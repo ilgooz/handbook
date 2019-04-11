@@ -39,9 +39,9 @@ themeConfig:
   logo: /logo-light.png
   searchMaxSuggestions: 15
   lastUpdated: true
-  repo: mesg-foundation/
+  repo: mesg-foundation/handbook
   repoLabel: GitHub
-  docsRepo: mesg-foundation/about
+  docsRepo: mesg-foundation/handbook
   docsDir: ./
   docsBranch: master
   editLinks: true

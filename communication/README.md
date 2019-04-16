@@ -6,22 +6,22 @@
 
 ### Daily discussions
 
-Daily discussions happen on [Discord](https://discordapp.com/invite/SaZ5HcE).
+Daily discussions happen on [Discord](https://discordapp.com/invite/SaZ5HcE)
 
-Make sure to have the role `team` in order to access more discussion channels. [See the list of all roles](/marketing/#chat)
+Make sure to have the role `team` in order to access internal team discussion channels - [See the list of all roles](/marketing/#chat)
 
-Some discussion might happen on Telegram but this should happen as little as possible or only for 1 to 1 conversation as Telegram is not really user friendly for group conversations.
+Conversations may happen on Telegram but try to avoid this or limit it to 1 on 1 conversations as Telegram is not user friendly for group conversations
 
 ### Task related discussion
 
-All discussions related to a specific work task should happen on Trello in order to keep this organized. Your task is likely to be in one of the following boards:
+Discussions related to a specific work task should happen on Trello - Your task is likely to be in one of the following boards:
 
 <div class="row">
   <TrelloBoard url="https://trello.com/b/Cg1ruDVu/mesg-general-activity-schedule" title="General Activity" />
   <TrelloBoard url="https://trello.com/b/oCIB1aEo/mesg-development-roadmap" title="Development Roadmap" />
 </div>
 
-Of course you can always talk with your coworkers on Discord or in live but make sure to log all progress on the Trello card.
+Discussions with coworkers will happen on Discord or in person but make sure to log updates and deliverables on the Trello card
 
 ## External
 

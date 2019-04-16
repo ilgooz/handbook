@@ -4,47 +4,47 @@
 
 ## Forum
 
-Support should happen as much as possible on [the forum](https://forum.mesg.com/c/support). This ultimately reduces the amount of support that we are doing because of the following reasons.
+Support inquiries should be directed to the MESG Forum [the forum](https://forum.mesg.com/c/support) - This ultimately reduces the amount of support required for the following reasons:
 
 ::: tip
-Try as much as possible to redirect all support to the forum
+Try to redirect all support inquiries to the Forum
 :::
 
 #### Searchable
 
-Every question/answers can be found easily by the search engine.
+Every question/answer can easily be found by any search engine
 
 #### Indexable
 
-All topics on the forum are indexable and so just by searching on any Search Engine people could find the answer directly without even asking us.
+All topics on the forum are indexable and so answers become accessible directly through any search engine without even asking us
 
-#### Community involved
+#### Community involvement
 
-Persons on the forum can participate and answer another member's question when we are not available. They can also be promoted to official moderator.
+Anyone on the forum can participate and answer another member's question when we are not available - They can also be promoted to official moderator
 
 #### Avoid duplication
 
-The forum has a good system to detect similar questions when creating a new post. This reduces the amount of duplicated/similar questions
+The forum has a good system to detect repeat questions when a new post is created - This reduces the amount of duplicated/similar questions
 
-#### Resolved discussion
+#### Resolved discussions
 
-When an answer fixes the problem of the user, this answer is marked as "resolved" and other users can easily see what to do to resolve a similar issue.
+When an answer satisfies a user inquiry, this answer is marked as "resolved" and other users can easily see what to do to resolve a similar issue
 
 ## Chat
 
-Support by chat can be done either on [Discord](https://discordapp.com/invite/SaZ5HcE) or [Telegram](https://t.me/mesg_community). This support is not optimal as users cannot easily find the answer to their questions and so this pushes a lot of duplicated questions.
+Support by chat can be done either on [Discord](https://discordapp.com/invite/SaZ5HcE) or [Telegram](https://t.me/mesg_community) - This support channel is not optimal as users cannot easily find the answer to their questions and so this creates a lot of duplicated questions
 
 ::: tip
-When an question happen too many time on a chat, encourage people to create a new topic on the forum in ["support"](https://forum.mesg.com/c/support) or ["general"](https://forum.mesg.com/c/general).
+When a question appears several times in chat, encourage people to create a new topic on the forum in ["support"](https://forum.mesg.com/c/support) or ["general"](https://forum.mesg.com/c/general).
 
-The next time this question happen send the link from the forum as a response.
+The next time this question happens send the link from the forum as a response
 :::
 
 ## Email
 
-Direct email are really hard to track and can be lost in a huge amount of other emails. Try to avoid this as much as possible.
+Direct emails are hard to track and are easy to lose track of - try to avoid this as much as possible
 
-Of course a lot of people like to send an email and we need to give an easy way for them to have this type of communication. In this case solutions exists to have support platform that can aggregate all emails and even re-direct to the right person depending on the email.
+Many people still prefer email as a communication channel - in this case use a support platform that can aggregate emails and re-direct them to the appropriate parties
 
 Here is a list of such services that could be use.
 - [https://www.intercom.com/](https://www.intercom.com/)
@@ -54,15 +54,15 @@ Here is a list of such services that could be use.
 - [https://hiverhq.com/](https://hiverhq.com/)
 
 ::: tip
-If this is a common problem, and already answered in the forum, make sure to give a link to the forum when answering this email.
+Make sure to give a link to the forum when answering emails and encourage them to ask future questions in the forum
 :::
 
 ## Phone/Video call
 
-This is really time consuming and should be avoided as much as possible.
+This is time consuming and should be avoided as much as possible
 
-Of course exception can happen for this **premium support** for special users or partners.
+Exceptions for **premium support** can be made on a case by case basis for special users or partners
 
 ::: tip
-Always try to push for a conversation by chat or email
+Always try to direct conversations to chat or email
 :::

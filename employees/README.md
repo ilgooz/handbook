@@ -11,27 +11,29 @@ List of tests
 
 ### Interview
 
-Interview by video call or in real life is mandatory.
+Interview by video call or in person 
 
-Goal of this interview:
-- Estimate if the candidate can fit in the team
-- Estimate if the candidate can deliver the work needed
-- Measure motivation / excitement of the candidate about MESG
-- Establish a base of discussion for remuneration
+Interview objectives:
+- Determine the candidate's ability to fit in the team
+- Determine candidate's ability to deliver results 
+- Measure motivation / excitement of the candidate about MESG and the position 
+- Establish salary expections
+
+- Depending on the position several interviews may be necessary, with the 3 founders plus the relevant team
 
 ### Remuneration
 
-After this interview a proposition is made to the candidate. Once both parts agreed on the remuneration, remuneration need to be written in [this document](https://docs.google.com/spreadsheets/d/1EsEL8jrlZ45d4cXODXSmeZOH7GQHZpmVX3gxJ1zSTpQ/edit#gid=0)
+After the interview process, an offer is made to the selected candidate. Once both parties agree on the remuneration, it is recorded here [this document](https://docs.google.com/spreadsheets/d/1EsEL8jrlZ45d4cXODXSmeZOH7GQHZpmVX3gxJ1zSTpQ/edit#gid=0)
 
 ### Contract
 
-Every employee of MESG Foundation will be hired as contractors. They will need to provide an invoice every month with the price defined during the negotiation.
+Employees of MESG Foundation are hired as contractors. They need to provide an invoice every month with the agreed upon salary
 
 A template for this contract can be found [here](https://docs.google.com/document/d/1x2zHJl5Jb-_2_65tvi7OSB21YddRGB-q-pGU4femdM0/edit)
 
 ### On-boarding
 
-Add a new employee to Google Suite [https://admin.google.com/ac/users](https://admin.google.com/ac/users).
+New employees are added to Google Suite [https://admin.google.com/ac/users](https://admin.google.com/ac/users).
 
 #### Google Drive
 
@@ -47,10 +49,10 @@ You will have access to all the resources you need for your work:
 - [Strategy](https://drive.google.com/drive/folders/1kZIioQuVRFYGMk7bKIrOPCYTEUU-6ZBj)
 - [Visual Identity](https://drive.google.com/drive/folders/1FzJrUKWBu3BfM2MzPZmPZy6iW7tlybsi)
 
-It is unlikely that you will have access to all these directories. If you think your work requires to be part of a certain directory please claim an access.
+You won't have access to all these directories. Please request access to additional directories on an as needed basis.
 
 ::: warning
-Do not create any directory inside this one. If you think one directory is missing, please let someone with the "MESG Foundation" access know about it and create the directory if needed.
+Do not create any new directories - Contact someone with "MESG Foundation" access to add additional directories 
 :::
 
 #### Discord
@@ -59,21 +61,21 @@ Please join the [Discord](https://discordapp.com/invite/SaZ5HcE) and make sure t
 
 #### Trello
 
-Create a [Trello account](https://trello.com/signup) and make sure to be added to the relevant boards.
+Create a [Trello account](https://trello.com/signup) to be added to the relevant boards
 
 #### Github
 
-Create a [Github account](https://github.com/join) and watch the [handbook repository](https://github.com/mesg-foundation/handbook) to get notifications on every changes in the MESG Foundation.
+Create a [Github account](https://github.com/join) and watch the [handbook repository](https://github.com/mesg-foundation/handbook) to get notifications on changes in the MESG Foundation operating procedures
 
 <iframe src="https://ghbtns.com/github-btn.html?user=mesg-foundation&repo=handbook&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
 #### Other
 
-Finally you can send them a cool t-shirt and/or polo of MESG with some stickers :)
+All employees get a cool MESG t-shirt and/or polo and some stickers :) YAY! 
 
 ## Bonuses
 
-Bonuses are calculated every semesters based on the work and objectives for the this period.
+Bonuses are calculated every 6 months based on the work and objectives for this period
 
 Bonus value will be **estimated in USD** but will be **distributed in token and/or in USD***.
 
@@ -88,7 +90,7 @@ The distribution of this bonus will be:
 - **10%** of the bonus **30 months** later
 
 ::: tip
-Bonuses can be accumulated cumulative every semesters.
+Bonuses can be accumulated every 6 months.
 :::
 
 This distribution is also depending on the [Algorithmic Token Distribution (ATD)](/token/#algorithmic-token-distribution) and should follow its rules.

@@ -32,7 +32,7 @@ It is imperative that the above information is communicated back to MESG through
 
 5. YELLOW assess and negotiates the Exchange contract. 
 
-Details of this activity must always communicated to MESG. For instance: which aspects of the contract are problematic, beneficial and what the status of the negotiation is. 
+Details of this activity must always be communicated to MESG. For instance: which aspects of the contract are problematic, beneficial and what the status of the negotiation is. 
 
 6. MESG select listing date.
 Yellow's input on this topic will be sought, but the criteria for selecting the listing date will typically involve providing enough time to create marketing material and visibility.

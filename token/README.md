@@ -6,7 +6,7 @@
 
 ## Exchange Listing
 The activities below represent a checklist of involved in getting MESG listed on Token Exchanges.
-While a linear process my be implied below, it is accepted that each Exchange interaction won't always follow this exact path. However, this checklist should still be adhered to as much as possible.
+While a linear process may be implied below, it is accepted that each Exchange interaction won't always follow this exact path. However, this checklist should still be adhered to as much as possible.
 
 Throughout the life-cycle of the Exchnage Lisring 
 

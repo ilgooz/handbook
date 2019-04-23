@@ -12,7 +12,7 @@ Throughout the life-cycle of the Exchange Listing
 
 1. Select an Exchange
 
-* YELLOW will select the ideal Exchange to approach from the pool of pre-approved echanges in the MESG Token Exchanges Google Doc located here: https://docs.google.com/spreadsheets/d/1Ks4YaVGldGDJd73k9IcMx2EDUfKJiKZlHcLBfPDe3mA/edit#gid=0
+* YELLOW will select the ideal Exchange to approach from the pool of pre-approved exchanges in the MESG Token Exchanges Google Doc located here: [https://docs.google.com/spreadsheets/d/1Ks4YaVGldGDJd73k9IcMx2EDUfKJiKZlHcLBfPDe3mA/edit#gid=0](https://docs.google.com/spreadsheets/d/1Ks4YaVGldGDJd73k9IcMx2EDUfKJiKZlHcLBfPDe3mA/edit#gid=0)
 * The engagement priority is reflected in listing order.
 
 2. Engage with Exchange

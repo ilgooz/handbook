@@ -37,7 +37,7 @@ Details of this activity must always be communicated to MESG. For instance: whic
 6. MESG select listing date.
 Yellow's input on this topic will be sought, but the criteria for selecting the listing date will typically involve providing enough time to create marketing material and visibility.
 
-7. MESG to set up marketing effort in conjunction with the Exhange's offerings and Yellow's guidance. It is likely that the marketing campaigns for all exchange listings will look mostly alike and that Standard Operating Procedures can be designed for these. But, given that some exchanges will provide additional marketing support and will have unique offerings, each listing's marketing campaign will also have a bespoke component.
+7. MESG to set up marketing effort in conjunction with the Exchange's offerings and Yellow's guidance. It is likely that the marketing campaigns for all exchange listings will look mostly alike and that Standard Operating Procedures can be designed for these. But, given that some exchanges will provide additional marketing support and will have unique offerings, each listing's marketing campaign will also have a bespoke component.
 
 8. MESG to sign the Exchange Listing contract.
 

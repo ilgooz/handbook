@@ -10,11 +10,11 @@ While a linear process may be implied below, it is accepted that each Exchange i
 
 Throughout the life-cycle of the Exchange Listing 
 
-####  Select an Exchange
+####  1. Select an Exchange
 -  YELLOW will select the ideal Exchange to approach from the pool of pre-approved exchanges in the MESG Token Exchanges Google Doc located here: [https://docs.google.com/spreadsheets/d/1Ks4YaVGldGDJd73k9IcMx2EDUfKJiKZlHcLBfPDe3mA/edit#gid=0](https://docs.google.com/spreadsheets/d/1Ks4YaVGldGDJd73k9IcMx2EDUfKJiKZlHcLBfPDe3mA/edit#gid=0)
 -  The engagement priority is reflected in listing order.
 
-#### Engage with Exchange
+#### 2. Engage with Exchange
 YELLOW will initiate contact and start discussions with the selected Exchange. The purpose of the engagement is to obtain information about listing procedure such as: 
 
 - Listing Price
@@ -24,20 +24,23 @@ YELLOW will initiate contact and start discussions with the selected Exchange. T
 
 It is imperative that the above information is communicated back to MESG throughout the engagement.
 
-#### MESG and Yellow reach consensus on whether the listing is to be done.
+#### 3. MESG and Yellow reach consensus on whether the listing is to be done.
 
-#### MESG completes the application process.
+#### 4. MESG completes the application process.
 
-#### YELLOW assess and negotiates the Exchange contract. 
+#### 5. YELLOW assess and negotiates the Exchange contract. 
 
 Details of this activity must always be communicated to MESG. For instance: which aspects of the contract are problematic, beneficial and what the status of the negotiation is. 
 
-#### MESG select listing date.
+#### 6. MESG select listing date.
 Yellow's input on this topic will be sought, but the criteria for selecting the listing date will typically involve providing enough time to create marketing material and visibility.
 
-#### MESG to set up marketing effort in conjunction with the Exchange's offerings and Yellow's guidance.
+#### 7. MESG to set up marketing effort in conjunction with the Exchange's offerings and Yellow's guidance.
 It is likely that the marketing campaigns for all exchange listings will look mostly alike and that Standard Operating Procedures can be designed for these. But, given that some exchanges will provide additional marketing support and will have unique offerings, each listing's marketing campaign will also have a bespoke component.
 
-#### MESG to sign the Exchange Listing contract.
+#### 8. MESG to sign the Exchange Listing contract.
 
-#### MESG to execute Marketing strategy designed in "7" above.
+#### 9. MESG to execute Marketing strategy.
+This is based on the strategy designed in "7" above.
+Also create a [major announcement](/marketing/#announcements-on-social-media)
+

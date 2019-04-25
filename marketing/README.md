@@ -157,7 +157,7 @@ The [MESG Discord]() is for the tech community to have a place to talk about MES
   - Architecture, how to join the community, storytelling, broad-interest news, how it's made, how it works demos 
 - Keep article length around a 4-6 minute read
 - Attach accompanying graphic or image
-  - Align imagery with the existing graphic style/format 
+  - Align imagery with the existing graphics style/format 
 - Capitalize only the first word and/or proper nouns in titles. Use catchy title
 - Hyperlink to MESG.com pages and to other relevant articles often throughout article
 - Use tags to categorize Medium articles appropriately (e.g. Announcments, Development, etc)

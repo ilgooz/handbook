@@ -2,7 +2,7 @@
 
 [[toc]]
 
-**TL;DR:** Avoid unneccessary meetings but if you need to call a meeting do it efficiently with an agenda
+**TL;DR:** Avoid unneccessary meetings, but if you need to have a meeting, do it efficiently with an agenda
 
 Innovative methods of conducting more effective meetings should be explored:
 
@@ -11,7 +11,7 @@ Innovative methods of conducting more effective meetings should be explored:
 - [Notes on paper](https://www.quickanddirtytips.com/productivity/meetings/how-to-take-notes-in-meetings)
 - [Silence break / Meditation time](https://happymanifesto.com/2014/05/21/start-your-meetings-with-meditation/)
 
-## Scheduling and Planning Meetings
+## Scheduling and planning meetings
 
 If a meeting is necessary, it needs to be planned:
 - date
@@ -28,10 +28,10 @@ Every meeting should have an [event on Google Calendar](https://calendar.google.
 
 ## Availability
 
-Make sure that everyone involved in the meeting is available, if not, then the meeting should be postponed. Do not invite anyone who is not directly involved with the meeting agenda.
+Make sure that everyone involved in the meeting is available, if not, then the meeting should be postponed. Do not invite anyone who is not directly involved with the meeting's agenda.
 
 ::: tip
-Make sure to edit your timezone especially if you are traveling.
+Make sure to edit your timezone, especially if you are traveling.
 
 [https://calendar.google.com/calendar/r/settings](https://calendar.google.com/calendar/r/settings)
 :::
@@ -49,7 +49,7 @@ If you **can** answer it, then **announce it on the calendar event** to let all 
 
 Two types of notes should be taken:
 - **Outcomes** for the goals set for the meeting
-- **Tangents** Important to capture but not in the scope of the meeting
+- **Tangents** Important to capture, but not in the scope of the meeting
 
 ## Measure success
 

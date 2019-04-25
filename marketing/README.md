@@ -161,7 +161,7 @@ The [MESG Discord]() is for the tech community to have a place to talk about MES
 - Capitalize only the first word and/or proper nouns in titles. Use catchy title
 - Hyperlink to MESG.com pages and to other relevant articles often throughout article
 - Use tags to categorize Medium articles appropriately (e.g. Announcments, Development, etc)
-- Promote article by following the "Minor Announcements" process above, unless article is part of a "Major Announcement"
+- Promote article by following the [Minor Announcements](/marketing/#announcements-on-social-media) process above, unless the article is part of a [Major Announcement](/marketing/#announcements-on-social-media)
 
 
 #### Frequency

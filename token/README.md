@@ -3,6 +3,27 @@
 [[toc]]
 
 ## Algorithmic Token Distribution
+The MESG Foundation will release the circulating supply of MESG Tokens via a system called Algorithmic Token Distribution (ATD) to increase stability and transparency.  
+
+#### Supply limitations
+
+- Software is used to determine the daily real circulating volume
+- 0-6% of of the previous day's actual total traded volume (TDTV) will be released into ciruclating supply each day. The exact percentage fluctuates to maintian optimal market health and a minimum 20% supply for MESG Foundation reserves to align longterm incentives. 
+- A smart contract is used to ensure no more than 6% TDTV is released, including founder, advisor and whale investor payouts.
+- Releasing MESG Tokens based on actual voume protects tokens in slow/bear markets by releasing few. More tokens will be released in faster markets. 
+
+#### Disbursement details
+
+- Of the 0-6% TDTV released, 66.7% will be sold on exchanges at the current market price. The daily unsold tokens, in addition to the remaining 33.3%, will be made available to to the MESG Foundation for direct token distribution.
+- For recurring token payouts, the MESG/USD exchange rate will be calculated from the rate at 13:00 (UTC+7) on the first day of the given month from the aggregated exchange rate.
+- For non-recurring payouts made before 13:00 (UTC+7) on a given day, the rate will be calculated from the previous day’s rate at 13:00 (UTC+7) from the aggregated exchange rate.
+- For non-recurring payouts made after 13:00 (UTC+7), the rate at 13:00 (UTC+7) from the same day will be used from the aggregated exchange rate.
+
+#### Transparency standards
+
+- The [ATD Dashboard]( https://atd.mesg.com/) is used to promote transparency within the MESG Community. It shows token quanitities within various wallets, in addition to token dispersment rates. 
+- Statistics on MESG's ATD Dashboard can be compared against public records such as Etherscan to boost trustworthiness and transparency with the community.
+
 
 ## Exchange Listing
 The activities below represent a checklist of involved in getting MESG listed on Token Exchanges.

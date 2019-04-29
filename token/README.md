@@ -3,7 +3,7 @@
 [[toc]]
 
 ## Algorithmic Token Distribution
-The MESG Foundation will release the circulating supply of MESG Tokens via a system called Algorithmic Token Distribution (ATD) to increase stability and transparency.  
+The MESG Foundation will release the total supply of MESG Tokens via a system called Algorithmic Token Distribution (ATD) to increase stability and transparency.
 
 #### Supply limitations
 

@@ -9,7 +9,7 @@ The MESG Foundation will release the total supply of MESG Tokens via a system ca
 
 - Software is used to determine the daily real circulating volume
 - 0-6% of of the previous day's actual DTV will be released into circulating supply each day. The exact percentage fluctuates to maintain optimal market health.
-- A smart contract is used to ensure that no more than 6% TDTV is released, including founder, advisor and whale investor payouts.
+- A smart contract is used to ensure that no more than 6% DTV is released, including the allocation for Sale, Team and Founders.
 - Releasing MESG Tokens based on actual volume protects tokens in slow/bear markets by keeping released quantities low. More tokens will be released in faster markets. 
 
 #### Disbursement details

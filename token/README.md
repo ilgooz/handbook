@@ -22,7 +22,7 @@ The MESG Foundation will release the total supply of MESG Tokens via a system ca
 #### Transparency standards
 
 - The [ATD Dashboard]( https://atd.mesg.com/) is used to promote transparency within the MESG Community. It displays token quanitities within various wallets, in addition to rates of token dispersment. 
-- Statistics on MESG's ATD Dashboard can be compared against public records such as Etherscan to boost trustworthiness and transparency with the community.
+- Statistics on MESG's ATD Dashboard can be compared against public records such as CoinMarketCap to boost trustworthiness and transparency with the community.
 
 
 ## Exchange Listing

@@ -14,7 +14,7 @@ The MESG Foundation will release the total supply of MESG Tokens via a system ca
 
 #### Disbursement details
 
-- Of the 0-6% TDTV released, 66.7% will be sold on exchanges at the current market price. The daily unsold tokens, in addition to the remaining 33.3%, will be made available to to the MESG Foundation for direct token distribution.
+- Of the 0-6% DTV released, 66.7% will be sold on exchanges at the current market price. The daily unsold tokens, in addition to the remaining 33.3%, will be made available to to the MESG Foundation for direct token distribution.
 - For recurring token payouts, the MESG/USD exchange rate will be calculated from the rate at 13:00 (UTC+7) on the first day of the given month from the aggregated exchange rate.
 - For non-recurring payouts made before 13:00 (UTC+7) on a given day, the rate will be calculated from the previous day’s aggregated exchange rate at 13:00 (UTC+7).
 - For non-recurring payouts made after 13:00 (UTC+7), the aggregated exchange rate at 13:00 (UTC+7) from the same day will be used.

@@ -186,3 +186,42 @@ Make sure that when off, everything you are working on is accessible so you don'
 
 This is **super important** and if it's not respected, this could impact your next holidays.
 :::
+
+
+### Offboarding
+
+#### Google Suite
+- Delete account
+  - Check transfer files
+  - Check transfer events
+  - Transfer to admin@mesg.com
+- Create a group with the email of the deleted user to receive new emails
+
+#### Forum
+- Remove from team and admins
+
+#### Telegram
+- Remove from all private groups
+- Remove admin from public groups
+
+#### Remove from team of
+- Discord
+- GitHub
+- Trello
+- 1Password
+- Zeplin
+- NewRelic
+- Sendgrid
+- Facebook page
+- Linkedin
+- AirBnb
+- Spark
+
+#### DigitalOcean
+- remove from team of
+- remove ssh keys from ALL droplets
+
+#### Misc
+- Change password social@mesg.com if needed
+- Remove authorization from Ethereum smart contracts
+

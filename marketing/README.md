@@ -12,7 +12,7 @@
 - Post on [Discord](https://discordapp.com/invite/SaZ5HcE)
   - #general channel
 - Post on [Twitter](https://twitter.com/mesgfoundation)
-- Post on Linkedin
+- Post on [Linkedin](https://www.linkedin.com/company/13661760/admin/)
 
 #### Major announcements
 
@@ -31,6 +31,10 @@
 - Post on Linkedin
   - Brief announcement
   - Link to the blog post 
+- Send a newsletter via [Sendgrid](https://sendgrid.com/)
+  - Brief announcement 
+  - Accompanying graphic/image
+  - Link to the blog post
 
 ### Software release
 
@@ -52,62 +56,44 @@
 
 ### Hackathon
 
-- Audit and edit existing technical onboarding documentation
-  - To ensure minimum friction, all [existing onboarding material](/ux/) must be updated to address previous support requests.
-- Identify potential strategic partnerships
-  - Look for mutually beneficial collaboration opportunities with organizations to run hackathons for greater impact, participation and awareness
-- Identify and approach potential partners to contribute to the prize allocation as well as cross-promotion to their audiences.
-  - Seek high-profile judges
 - Identify hackathon topic/niche
-  - The outcome of the hackathon MUST make a material contribution to the five core KPIs
-  - Attempt to overlap with the current or forthcoming Key Vertical
+  - The outcome of the hackathon must contribute to the five core KPIs
+  - If possible, overlap with the current or forthcoming Key Vertical
   - If a hackathon partner has been secured, this will shape the topic
-- Set participation success criteria
-  - Research and engage with domain experts in order to determine the judging criteria
-- Bring domain specific judges on board
+- Set judging criteria
+  - Research and engage with domain experts in order to determine the judging criteria 
+- Bring domain-specific judges on board
   - Attempt to secure judges with a solid online profile and following - people with credibility whose online following can be leveraged for pre and post hackathon visibility
+- Update MESG's DevPost page with relevant information 
+  - Set dates, prize amounts, create description and outline judging criteria.
 - Create awareness campaign (focused on attracting participants)
-  - Engage with marketing expert on how to create content to engage and entice quality particpants and form a MESG hackahthon community 
+  - Promote hackathon on social media for at least two weeks prior to hackathon launch
+  - Follow "major announcement" process above
+  - In addition to social media, post on: HackerNews, Reddit, and vertical-specific websites
 - Create public relations campaign (Investor/trader focus)
-  - Marketing campaign that focuses on general awareness of the hackathon and creating credibility for the MESG token.
-- Set [Hackthon rules](https://drive.google.com/drive/folders/1kDqppueHXrOs7iKej9NSs0iG0sHpWjo2) and ensure compliance
-  - Make sure the hackathon follows all legal regulations and define terms for participants. Especially important for online hackathons as many platform like [Devpost](https://devpost.com/) expect to have these legal rules/terms.
-- Identify broadcasting platforms
-  - Identify all platforms to broadcast marketing material related to creating awareness for both driving participation and general interest for non-participants like investors and marketplace consumers.
-- Create community channels specific to the hackathon
-  - Primarily on Discord for instant messaging 
-  - Ensure that 24/7 technical support is available
-- During the hackathon -promote entries on relevant platforms/communities
+  - Marketing campaign that focuses on general awareness of the hackathon and creating credibility for the MESG Token.
+- During the hackathon -promote specific entries on relevant platforms/communities
   - Creating awareness of the entries as the hackathon progresses will stimulate important conversations amongst future participants and token investors.
-- Engage with influencers to promote entries.
-  - An ongoing campaign to involve niche influencers as we see what entrants are busy building 
-  - Create hype over what entrants are building
-- Judge winning entries
-  - Marketing material/content could be created out of the process
-  - This could also be done through a live stream
+- Judge hackathon entries
+  - Create marketing material/content out of the process
+  - Record on video or live stream, if appropriate
 - Announce winners
-  - Explore different publication methods of announcing the winners - eg. a countdown 
-- Broadcast announcement of hackathon winners on all relevant channels
-  - Broadcast channels established during the early phases of the marketing campaign should be leveraged to ensure maximum exposure of the winners
-  - This could also be done through a live stream
+  - Use teasing tactics, such as a countdown, ahead of the announcement
+  - Broadcast announcement of hackathon winners on all relevant channels 
+  - Record through a live stream, if appropriate
 - Distribute prizes
-  - If the prize is paid in MESG token, we need to ensure participants are aware the price will fluctuate based on the market value 
-  - Price is set at the end of the hackathon
-  - Price during the distribution (that can happen between x and y days)
-- Mine marketing material out of all entries
-  - Start before the winners are announced
-  - As soon as entries are published, we should seek the input of domain experts and mine compelling content out of the entries
-  - What does the entry mean for the tech world? Why is MESG the ideal platform for this, etc.
+  - For MESG Token prizes, ensure participants are aware the prize value will fluctuate based on the market value 
+  - MESG Token/USD rate calculated upon time of distribution
+- Mine marketing material out of the entries
+  - Seek the input of domain experts and mine compelling content out of the entries
+  - Focus content on what the entry means for the tech world, and why is MESG the ideal platform for this.
   - Interview winners: who they are, what are they doing in their life, why they participated, what was their impression of MESG, how they learned of MESG etc.
   - If it is a partner Hackathon, ask partner to promote MESG
-- Measure hackathon's impact on key metrics
-  - This will likely only be visible some time after the entries are finalized
-  - The four key metrics established in the Adoption Strategy should be monitored to see whether the hackathon has made a material contribution to these numbers
-- Critical assessment of Hackathon successes and failures
+- Critically assess the Hackathon's successes and failures
   - What was learned? What did we do right and what did we do wrong?
   - Get input from the entire MESG team as well as participants
-  - List changes/improvements for future hackathons
-  - Analysis of how the hackathon contributed to MESG’s KPIs
+  - Update processes for future hackathons
+  - Analyze how the hackathon contributed to MESG’s KPIs
 
 
 ### Conference/Booth
@@ -161,7 +147,33 @@ The [MESG Discord]() is for the tech community to have a place to talk about MES
 - **#moderators**: Reserved for [Moderator] to notify other moderators and resolve conflicts as well as having a private channel to talk with each other
 
 ### Blog
+
+- Post blog content on [Medium](https://medium.com/mesg) focused primarily on new developments on MESG 
+  - Remain focused on providing actual value to our target audience. More ≠ more.
+- Choose topics often that cause/create tension 
+  - e.g. "We screwed up, here's how", "5 reasons our product is better than theirs". 
+  - Be critical yet sophisticated and respectful
+- Additional topic options: 
+  - Architecture, how to join the community, storytelling, broad-interest news, how it's made, how it works demos 
+- Keep article length around a 4-6 minute read
+- Attach accompanying graphic or image
+  - Align imagery with the existing graphics style/format 
+- Capitalize only the first word and/or proper nouns in titles. Use catchy title
+- Hyperlink to MESG.com pages and to other relevant articles often throughout the article
+- Use tags to categorize Medium articles appropriately (e.g. Announcements, Development, etc)
+- Promote article by following the [Minor Announcements](/marketing/#announcements-on-social-media) process above, unless the article is part of a [Major Announcement](/marketing/#announcements-on-social-media)
+
+
 #### Frequency
+
+- Post new content at least once per week
+  - Blog posts
+  - Video posts
+  - Developer-centric content
+- Short-form social media posts: at least once every 1 or 2 days 
+- Repost valuable content: up to 5x over the subsequent months
+  - Re-word/phrase posts to improve engagement  
+
 #### Monitoring
 #### Inspiration
 #### Draft

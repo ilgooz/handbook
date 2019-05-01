@@ -11,31 +11,33 @@ List of tests
 
 ### Interview
 
-Interview by video call or in real life is mandatory.
+Interview in person or by video call
 
-Goal of this interview:
-- Estimate if the candidate can fit in the team
-- Estimate if the candidate can deliver the work needed
-- Measure motivation / excitement of the candidate about MESG
-- Establish a base of discussion for remuneration
+Interview objectives:
+- Determine the candidate's ability to fit within the team
+- Determine candidate's ability to deliver results 
+- Measure motivation / excitement of the candidate regarding the position and MESG
+- Establish salary expections
+
+- Depending on the position, several interviews with the three founders plus the relevant team may be necessary
 
 ### Remuneration
 
-After this interview a proposition is made to the candidate. Once both parts agreed on the remuneration, remuneration need to be written in [this document](https://docs.google.com/spreadsheets/d/1EsEL8jrlZ45d4cXODXSmeZOH7GQHZpmVX3gxJ1zSTpQ/edit#gid=0)
+After the interview process, an offer is made to the selected candidate. Once both parties agree on the remuneration, it is recorded here in [this document](https://docs.google.com/spreadsheets/d/1EsEL8jrlZ45d4cXODXSmeZOH7GQHZpmVX3gxJ1zSTpQ/edit#gid=0)
 
 ### Contract
 
-Every employee of MESG Foundation will be hired as contractors. They will need to provide an invoice every month with the price defined during the negotiation.
+Employees of the MESG Foundation are hired as contractors. They need to provide an invoice every month with the agreed upon salary
 
 A template for this contract can be found [here](https://docs.google.com/document/d/1x2zHJl5Jb-_2_65tvi7OSB21YddRGB-q-pGU4femdM0/edit)
 
 ### On-boarding
 
-Add a new employee to Google Suite [https://admin.google.com/ac/users](https://admin.google.com/ac/users).
+New employees are added to Google Suite [https://admin.google.com/ac/users](https://admin.google.com/ac/users).
 
 #### Google Drive
 
-Copy the [MESG Foundation directory](https://drive.google.com/drive/folders/173CZWBJZpd5OhqwvKEp8jEKUhrizbWaI) in your drive.
+Add the [MESG Foundation directory](https://drive.google.com/drive/folders/173CZWBJZpd5OhqwvKEp8jEKUhrizbWaI) to your Drive.
 
 You will have access to all the resources you need for your work:
 - [Business](https://drive.google.com/drive/folders/18gvb5sZYFN9e-G76HKCdOYiS-cV4Lbht)
@@ -47,10 +49,10 @@ You will have access to all the resources you need for your work:
 - [Strategy](https://drive.google.com/drive/folders/1kZIioQuVRFYGMk7bKIrOPCYTEUU-6ZBj)
 - [Visual Identity](https://drive.google.com/drive/folders/1FzJrUKWBu3BfM2MzPZmPZy6iW7tlybsi)
 
-It is unlikely that you will have access to all these directories. If you think your work requires to be part of a certain directory please claim an access.
+You won't have access to all directories. Please request access to additional directories on an as needed basis.
 
 ::: warning
-Do not create any directory inside this one. If you think one directory is missing, please let someone with the "MESG Foundation" access know about it and create the directory if needed.
+Do not create any new directories - Contact someone with "MESG Foundation" access to add additional directories 
 :::
 
 #### Discord
@@ -59,25 +61,25 @@ Please join the [Discord](https://discordapp.com/invite/SaZ5HcE) and make sure t
 
 #### Trello
 
-Create a [Trello account](https://trello.com/signup) and make sure to be added to the relevant boards.
+Create a [Trello account](https://trello.com/signup) to be added to the relevant boards
 
 #### Github
 
-Create a [Github account](https://github.com/join) and watch the [handbook repository](https://github.com/mesg-foundation/handbook) to get notifications on every changes in the MESG Foundation.
+Create a [Github account](https://github.com/join) and watch the [handbook repository](https://github.com/mesg-foundation/handbook) to get notifications on changes in the MESG Foundation operating procedures
 
 <iframe src="https://ghbtns.com/github-btn.html?user=mesg-foundation&repo=handbook&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
 #### Other
 
-Finally you can send them a cool t-shirt and/or polo of MESG with some stickers :)
+All employees get a cool MESG t-shirt and/or polo and some stickers :) YAY! 
 
 ## Bonuses
 
-Bonuses are calculated every semesters based on the work and objectives for the this period.
+Bonuses are calculated every 6 months based on the work and objectives for the period
 
-Bonus value will be **estimated in USD** but will be **distributed in token and/or in USD***.
+Bonus value will be **estimated in USD** but will be **distributed in tokens and/or in USD***.
 
-The bonus' token rate will be the one of the day of the bonus
+The bonus USD/token rate will be calculated on the first day of the bonus payout
 
 The distribution of this bonus will be:
 - **40%** of the bonus **immediately**
@@ -88,10 +90,10 @@ The distribution of this bonus will be:
 - **10%** of the bonus **30 months** later
 
 ::: tip
-Bonuses can be accumulated cumulative every semesters.
+Bonuses can be accumulated every 6 months.
 :::
 
-This distribution is also depending on the [Algorithmic Token Distribution (ATD)](/token/#algorithmic-token-distribution) and should follow its rules.
+This distribution also depends on the [Algorithmic Token Distribution (ATD)](/token/#algorithmic-token-distribution) and should follow its rules.
 
 #### Bonus distribution:
 
@@ -106,15 +108,15 @@ _* The ratio between USD and token will be decided by MESG Foundation._
 
 ## Expenses
 
-Expenses are reimbursed when salary is paid. All expenses need to be justified with an invoice in order to get the refund.
+Expenses are reimbursed when salary is paid. All expenses need to be justified with an invoice in order to get a refund.
 
-Please try as much as possible to know in advance if your expenses will be covered.
+Please try as much as possible to ensure in advance if your expenses will be covered.
 
 ::: warning
-Expenses needs to be sent to [expenses@mesg.com](mailto:expenses@mesg.com) before the end of the month
+Expenses needs to be sent to [expenses@mesg.com](mailto:expenses@mesg.com) before the end of each month
 :::
 
-Here are a few expenses that will be covered.
+Here are a few expenses that will be covered:
 
 ### Trips
 
@@ -143,23 +145,23 @@ Here is a list of resources where you can find interesting courses, but feel fre
 - [https://tutsplus.com/](https://tutsplus.com/)
 - Books
 
-## Day off / Remote work
+## Time off / Remote work
 
-We care about result more than time, if you can do all your job in one week and spend the rest of the month on holiday go for it :smile:.
+We care about results more than time. If you can do your entire job in one week, then spend the rest of the month on holiday go for it :smile:.
 
-Holidays are important to release stress and come back with more motivation than ever so, we don't worry much about that.
+Holidays are important to release stress and come back with more motivation than ever so, we don't worry much about them.
 
-Also, you might be moving for some personal reasons, but still working or partially working so make sure to log that the same way than your holidays.
+Also, you might need to take some time for personal reasons, but still want to work or partially work, so make sure to log that the same way than your holidays.
 
 ::: tip Notification
-For day off and part time make sure to notify the team on time.
+For time off and partial time off, make sure to notify the team on time.
 
-Consider a week notice for less than a week holiday and two weeks notice for more.
+Consider a one-week notice for less than a week holiday, and a two-week notice for more.
 :::
 
-There are still some rules to make sure that everything works perfectly even when you are not here.
+There are still some rules to ensure that everything works well even when you are not here.
 
-Add it to the company level calendar [MESG Availabilities](https://calendar.google.com/calendar/embed?src=mesg.tech_36toa09ndvlltajoke45r0v89s%40group.calendar.google.com) with the following format:
+Add it to the company-level calendar [MESG Availabilities](https://calendar.google.com/calendar/embed?src=mesg.tech_36toa09ndvlltajoke45r0v89s%40group.calendar.google.com) with the following format:
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;src=mesg.tech_36toa09ndvlltajoke45r0v89s%40group.calendar.google.com" style="border-width:0" height="300" width="100%" frameborder="0" scrolling="no"></iframe>
 
@@ -167,7 +169,7 @@ Add it to the company level calendar [MESG Availabilities](https://calendar.goog
 [TYPE] - NAME (reason)
 ```
 
-*You don't have to provide any **reason** for time off, this might be personal but if you want it's always nice to know where you are.*
+*You don't have to provide any **reason** for time off as it might be personal, but if you want to, it's always nice to know where you are.*
 
 Where `TYPE` that can be 
 - **OFF**: holiday
@@ -180,7 +182,7 @@ eg:
 - `[PART] Anthony (Visit family)`
 
 ::: warning
-Make sure that when off, everything you are working on is accessible and you don't block any other team member.
+Make sure that when off, everything you are working on is accessible so you don't hinder any other team member's work flow.
 
-This is **super important** and if not respected this could impact your next holidays.
+This is **super important** and if it's not respected, this could impact your next holidays.
 :::

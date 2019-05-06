@@ -2,7 +2,7 @@
 
 [[toc]]
 
-Please follow the following guideline for development:
+Please follow the following guidelines for development:
 [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ## Setup
@@ -83,7 +83,7 @@ If a development is doing multiple things, refactoring, perf and feature for exa
 
 ### Feature
 
-Every feature needs to be discussed to avoid chaos and to make sure that they are really relevant.
+Every feature needs to be discussed to avoid chaos and to make sure that they are actually relevant.
 
 #### Trello roadmap
 
@@ -97,7 +97,7 @@ To brainstorm about new features you should create a [new post on the forum](htt
 
 <img src="/proposal.png">
 
-You can find all the proposal [here](https://forum.mesg.com/tags/proposal), also make sure that when these proposals are accepted and merged they are resolved on the forum.
+You can find all proposals [here](https://forum.mesg.com/tags/proposal). Also make sure that when these proposals are accepted and merged, they are resolved on the forum.
 
 ### Bug
 
@@ -105,11 +105,11 @@ Bugs needs to be tracked on [Github](https://github.com/mesg-foundation/core/iss
 
 #### Test to reproduce
 
-When fixing a bug, make sure you can reproduce it. The best way is to write a test that reproduces the bug and then fix the code to have the test green. This ensures that the bug is actually fixed and no regression will occurs.
+When fixing a bug, make sure you can reproduce it. The best way is to write a test that reproduces the bug and then fix the code to have the test green. This ensures that the bug is actually fixed and no regressions will occur.
 
 ## Review
 
-When the development is mature enough, you can create a Pull Request on Github (if you want early feedback on a work in progress use the **Draft** Pull Request option).
+When development is mature enough, you can create a Pull Request on Github (if you want early feedback on a work in progress use the **Draft** Pull Request option).
 
 Then select the different reviewers for this Pull Request.
 
@@ -126,7 +126,7 @@ If you want to review a Pull Request from the community you can have a look at t
 
 ## Merge
 
-Before merge you have to make sure that all criteria are valid:
+Before merging you must make sure that all criteria is valid:
 - everything is green on the Pull Request
 - all discussions are resolved
 - merge to the dev
@@ -134,12 +134,14 @@ Before merge you have to make sure that all criteria are valid:
 ## Release
 
 - Create a Pull Request with the new version and the update the `CHANGELOG.md` to `dev`
-- Merge the Pull Requests in the `dev` branch
+- Merge the previous Pull Request in the `dev` branch
 - Create a Pull Request from `dev` to `master`
 - Wait for CI to finish
-- Merge the Pull Request in the `master` branch
-- Tag the `master` with the new version in the `CHANGELOG.md` file
-- When the new binaries are uploaded to GitHub, update the release with the Changelog of this version
+- Merge the previous Pull Request in the `master` branch
+- Tag the `master` with the latest version of the `CHANGELOG.md` file
+- When the new binaries are uploaded to GitHub, update the Github's release note with the Changelog of this version
 - Follow the [publication process](/marketing/#software-release)
 
-Query to find all latest Pull Requests to build the changelog: `is:pr is:closed merged:2018-10-05..2018-11-03 base:dev` or use [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator).
+### Help
+
+- To query all of the latest Pull Requests to build the changelog: `is:pr is:closed merged:2018-10-05..2018-11-03 base:dev` or use [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator).

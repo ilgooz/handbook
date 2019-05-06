@@ -134,12 +134,14 @@ Before merging you must make sure that all criteria is valid:
 ## Release
 
 - Create a Pull Request with the new version and the update the `CHANGELOG.md` to `dev`
-- Merge the Pull Requests in the `dev` branch
+- Merge the previous Pull Request in the `dev` branch
 - Create a Pull Request from `dev` to `master`
 - Wait for CI to finish
-- Merge the Pull Request in the `master` branch
-- Tag the `master` with the new version in the `CHANGELOG.md` file
-- When the new binaries are uploaded to GitHub, update the release with the Changelog of this version
+- Merge the previous Pull Request in the `master` branch
+- Tag the `master` with the latest version of the `CHANGELOG.md` file
+- When the new binaries are uploaded to GitHub, update the Github's release note with the Changelog of this version
 - Follow the [publication process](/marketing/#software-release)
 
-Query to find all of the latest Pull Requests to build the changelog: `is:pr is:closed merged:2018-10-05..2018-11-03 base:dev` or use [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator).
+### Help
+
+- To query all of the latest Pull Requests to build the changelog: `is:pr is:closed merged:2018-10-05..2018-11-03 base:dev` or use [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator).

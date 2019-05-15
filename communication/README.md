@@ -14,14 +14,9 @@ Conversations may happen on Telegram but try to avoid this. If necessary, limit 
 
 ### Task related discussion
 
-Discussions related to a specific work task should happen on Trello - Your tasks are likely to be on one of the following boards:
+Discussions related to a specific work task should happen on [Monday](https://mesg.monday.com).
 
-<div class="row">
-  <TrelloBoard url="https://trello.com/b/Cg1ruDVu/mesg-general-activity-schedule" title="General Activity" />
-  <TrelloBoard url="https://trello.com/b/oCIB1aEo/mesg-development-roadmap" title="Development Roadmap" />
-</div>
-
-Discussions with coworkers will happen on Discord or in person, but make sure to log updates and deliverables on the Trello card
+Discussions with coworkers will happen on Discord or in person, but make sure to log updates and deliverables on Monday.
 
 ## External
 

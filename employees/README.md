@@ -59,9 +59,9 @@ Do not create any new directories - Contact someone with "MESG Foundation" acces
 
 Please join the [Discord](https://discordapp.com/invite/SaZ5HcE) and make sure to have the [role `team`](/marketing/#chat)
 
-#### Trello
+#### Monday
 
-Create a [Trello account](https://trello.com/signup) to be added to the relevant boards
+Create a [Monday account](https://mesg.monday.com/) to be added to the relevant boards
 
 #### Github
 

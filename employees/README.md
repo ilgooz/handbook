@@ -73,7 +73,7 @@ Create a [Github account](https://github.com/join) and watch the [handbook repos
 
 All employees get a cool MESG t-shirt and/or polo and some stickers :) YAY! 
 
-### Offboarding
+### Off-boarding
 
 #### Google Suite
 - Delete account

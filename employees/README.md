@@ -216,6 +216,7 @@ This is **super important** and if it's not respected, this could impact your ne
 - Linkedin
 - AirBnb
 - Spark
+- Monday
 
 #### DigitalOcean
 - remove from team of

@@ -73,6 +73,46 @@ Create a [Github account](https://github.com/join) and watch the [handbook repos
 
 All employees get a cool MESG t-shirt and/or polo and some stickers :) YAY! 
 
+### Off-boarding
+
+#### Google Suite
+- Delete account
+  - Check transfer files
+  - Check transfer events
+  - Transfer to admin@mesg.com
+- Create a group with the email of the deleted user to receive new emails
+
+#### Forum
+- Remove from team and admins
+
+#### Telegram
+- Remove from all private groups
+- Remove admin from public groups
+
+#### Remove from team of
+- Discord
+- GitHub
+- Trello
+- 1Password
+- Zeplin
+- NewRelic
+- Sendgrid
+- Facebook page
+- Linkedin
+- AirBnb
+- Spark
+- Monday
+
+#### DigitalOcean
+- remove from team of
+- remove ssh keys from ALL droplets
+
+#### Misc
+- Change password social@mesg.com if needed
+- Remove authorization from Ethereum smart contracts
+
+
+
 ## Bonuses
 
 Bonuses are calculated every 6 months based on the work and objectives for the period

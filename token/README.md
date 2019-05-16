@@ -60,6 +60,10 @@ The sum of the daily allotments are capped to a maximum of 6% of the previous da
 
 The exact percentage of each allocation's daily allotments fluctuates to match the distribution needs of the MESG Foundation.
 
+### Circulating supply
+
+The circulating supply started at 250,000 MESG (0.1% of total supply) and grow every time a daily allotment is distributed.
+
 ### Daily Traded Volume
 
 The Daily Traded Volume (DTV) is calculated from the aggregation of the last 24h traded volume of the major crosses against the MESG Token. It is calculated internally but can be checked against other source like [CoinMarketCap](https://coinmarketcap.com/currencies/mesg/).
@@ -74,7 +78,7 @@ Its source code is open source and is available on [GitHub](https://github.com/m
 
 #### Dashboard
 
-The [ATD Dashboard](https://atd.mesg.com/) is used to display the daily traded volume, the daily distribution from the allocations, the circulating supply, and many relevant information.
+The [ATD Dashboard](https://atd.mesg.com/) is used to display the daily traded volume, the daily distribution from the allocations, the circulating supply, the percent of the allocations, and many relevant information.
 
 Statistics on the ATD Dashboard can be compared against public records such as Etherscan or CoinMarketCap to boost trustworthiness and transparency with the community.
 

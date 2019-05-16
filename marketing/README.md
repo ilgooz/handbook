@@ -59,6 +59,7 @@
   - Secure judges with a solid online profile and following - people with credibility whose online following can be leveraged for pre and post hackathon visibility
 4. Update MESG's DevPost page with relevant information 
   - Set dates, prize amounts, create description and outline judging criteria.
+  - Add official rules: https://docs.google.com/document/d/1BK-iDJY0_wsODVB1hgKUe1gbf01PyTfPmppi3NzOWk0/edit 
 5. Create awareness campaign (focused on attracting participants)
   - Promote hackathon on social media for at least two weeks prior to hackathon launch
   - Follow "major announcement" process above

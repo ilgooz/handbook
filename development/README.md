@@ -85,11 +85,9 @@ If a development is doing multiple things, refactoring, perf and feature for exa
 
 Every feature needs to be discussed to avoid chaos and to make sure that they are actually relevant.
 
-#### Trello roadmap
+#### Product roadmap
 
-The list of all features to implement can be found on the associated Trello Board.
-
-<TrelloBoard url="https://trello.com/b/oCIB1aEo/mesg-development-roadmap" title="Development Roadmap" />
+The list of all features to implement can be found on the associated [Monday Board](https://mesg.monday.com/boards/231078139).
 
 #### Brainstorm
 

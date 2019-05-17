@@ -56,8 +56,6 @@ The tokens in this allocation will be distributed to either MESG's partners and 
 
 An initial 0.1% of the total supply (250,000 MESG Tokens) was released on the 14th February 2019, the first day of listing, from the Sale allocation to initiate trading and provide liquidity.
 
-The sum of the daily allotments are capped to a maximum of 6% of the previous day's traded volume to maintain optimal market health.
-
 The exact percentage of each allocation's daily allotments fluctuates to match the distribution needs of the MESG Foundation.
 
 ### Circulating supply

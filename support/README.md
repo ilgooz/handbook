@@ -32,7 +32,7 @@ When an answer satisfies a user inquiry, this answer is marked as "resolved" and
 
 ## Chat
 
-Support by chat can be done either on [Discord](https://discordapp.com/invite/SaZ5HcE) or [Telegram](https://t.me/mesg_community) - Telegram as a support channel is not optimal because users cannot easily find the answer to their questions, creating a lot of duplicated questions
+Support by chat can be done either on [Discord](https://discordapp.com/invite/5tVTHJC) or [Telegram](https://t.me/mesg_community) - Telegram as a support channel is not optimal because users cannot easily find the answer to their questions, creating a lot of duplicated questions
 
 ::: tip
 When a question appears several times in chat, encourage people to create a new topic on the forum in ["support"](https://forum.mesg.com/c/support) or ["general"](https://forum.mesg.com/c/general).

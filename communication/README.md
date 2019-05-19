@@ -6,7 +6,7 @@
 
 ### Daily discussions
 
-Daily discussions happen on [Discord](https://discordapp.com/invite/SaZ5HcE)
+Daily discussions happen on [Discord](https://discordapp.com/invite/5tVTHJC)
 
 Make sure to have the role `team` in order to access internal team discussion channels - [See the list of all roles](/marketing/#chat)
 

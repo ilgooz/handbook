@@ -57,7 +57,7 @@ Do not create any new directories - Contact someone with "MESG Foundation" acces
 
 #### Discord
 
-Please join the [Discord](https://discordapp.com/invite/SaZ5HcE) and make sure to have the [role `team`](/marketing/#chat)
+Please join the [Discord](https://discordapp.com/invite/5tVTHJC) and make sure to have the [role `team`](/marketing/#chat)
 
 #### Monday
 

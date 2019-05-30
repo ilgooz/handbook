@@ -16,7 +16,7 @@ docker-machine create --driver virtualbox mesg-dev
 eval $(docker-machine env mesg-dev)
 # End optional
 docker swarm init
-docker network create --driver overlay core --label com.docker.stack.namespace=core
+docker network create --driver overlay engine --label com.docker.stack.namespace=core
 
 ./dev-core
 # Go get a coffee or anything, this will take about 30min

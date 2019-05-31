@@ -18,7 +18,7 @@ eval $(docker-machine env mesg-dev)
 docker swarm init
 docker network create --driver overlay engine --label com.docker.stack.namespace=engine
 
-./dev-core
+./dev
 # Go get a coffee, it will take from 5min to 30min.
 ```
 

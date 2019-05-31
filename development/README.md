@@ -5,29 +5,28 @@
 Please follow the following guidelines for development:
 [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 
-## Setup
+## Install Engine
 
 ```bash
-git clone git@github.com:mesg-foundation/core.git
-cd core
+git clone git@github.com:mesg-foundation/engine.git
+cd engine
 git checkout dev
 # Optional with Docker Machine
 docker-machine create --driver virtualbox mesg-dev
 eval $(docker-machine env mesg-dev)
 # End optional
 docker swarm init
-docker network create --driver overlay core --label com.docker.stack.namespace=core
+docker network create --driver overlay engine --label com.docker.stack.namespace=engine
 
-./dev-core
-# Go get a coffee or anything, this will take about 30min
+./dev
+# Go get a coffee, it will take from 5min to 30min.
 ```
 
-That's it, you have your MESG Core ready and running already.
+That's it, you have the MESG Engine ready and already running.
 
-Now you have everything needed to develop on the Core.
+## Install CLI
 
-- Run the Core with `./dev-core`
-- Run the CLI with `./dev-cli`
+TO DO
 
 ## Test
 

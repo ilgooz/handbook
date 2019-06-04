@@ -33,7 +33,7 @@ TO DO
 ### Run all tests with code coverage
 
 ```bash
-env MESG_CORE_IMAGE=mesg/core:local go test -cover -v ./...
+env MESG_CORE_IMAGE=mesg/engine:local go test -cover -v ./...
 ```
 
 If you use Visual Studio Code you can add the following settings (Preference > Settings)

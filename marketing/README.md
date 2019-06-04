@@ -141,7 +141,7 @@ The [MESG Discord](https://discord.gg/JpBpYXJ) is for the tech community to have
 - **#general**: General discussions about MESG
 - **#help**: To get help for anything related to MESG. This one should have a link to the [forum](#forum) to redirect people to existing answers
 - **#trading**: A channel to talk about trading about the MESG Token
-- **#dev**: Discussion about the development of MESG and to interact with MESG Core team developers and contributors
+- **#dev**: Discussion about the development of MESG and to interact with the core developers and contributors
 - **#random**: For any random things...
 - **#moderators**: Reserved for [Moderator] to notify other moderators and resolve conflicts as well as having a private channel to talk with each other
 

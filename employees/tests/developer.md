@@ -19,7 +19,7 @@ The Service should work with the `mesg-core service test` command and should hav
 
 The service should expose a HTTP server that listens for POST requests.
 
-When receiving a request, the service should emit an event with key `onRequest` to MESG Core, with the following data:
+When receiving a request, the service should emit an event with key `onRequest` to MESG Engine, with the following data:
 - `date`: the date and time of the request
 - `id`: an unique id of the request
 - `body`: the body of the request

@@ -8,7 +8,7 @@ Please follow the following guidelines for development:
 ## Install Engine
 
 ```bash
-git clone git@github.com:mesg-foundation/engine.git
+git clone https://github.com/mesg-foundation/engine.git
 cd engine
 git checkout dev
 # Optional with Docker Machine
@@ -26,7 +26,12 @@ That's it, you have the MESG Engine ready and already running.
 
 ## Install CLI
 
-TO DO
+```bash
+git clone https://github.com/mesg-foundation/cli.git
+cd cli
+npm install
+./bin/run
+```
 
 ## Test
 

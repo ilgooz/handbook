@@ -5,7 +5,9 @@
 Please follow the following guidelines for development:
 [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 
-## Install Engine
+## Installations
+
+### Engine
 
 ```bash
 git clone https://github.com/mesg-foundation/engine.git
@@ -24,7 +26,7 @@ docker network create --driver overlay engine --label com.docker.stack.namespace
 
 That's it, you have the MESG Engine ready and already running.
 
-## Install CLI
+### CLI
 
 ```bash
 git clone https://github.com/mesg-foundation/cli.git
@@ -133,7 +135,9 @@ Before merging you must make sure that all criteria is valid:
 - all discussions are resolved
 - merge to the dev
 
-## Release
+## Releases
+
+### Engine
 
 - Create a Pull Request with the new version and the update the `CHANGELOG.md` to `dev`
 - Merge the previous Pull Request in the `dev` branch
@@ -141,7 +145,8 @@ Before merging you must make sure that all criteria is valid:
 - Wait for CI to finish
 - Merge the previous Pull Request in the `master` branch
 - Tag the `master` with the latest version of the `CHANGELOG.md` file
-- When the new binaries are uploaded to GitHub, update the Github's release note with the Changelog of this version
+- Check that the new docker image is uploaded to DockerHub
+- Update the Github's release note with the Changelog of this version and a link to the forum's release notes.
 - Follow the [publication process](/marketing/#software-release)
 
 ### Help

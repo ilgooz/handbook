@@ -146,8 +146,9 @@ Before merging you must make sure that all criteria is valid:
 - Merge the previous Pull Request in the `master` branch
 - Tag the `master` with the latest version of the `CHANGELOG.md` file
 - Check that the new docker image is uploaded to DockerHub
-- Update the Github's release note with the Changelog of this version and a link to the forum's release notes.
+- Update the Github's release note with the Changelog of this version
 - Follow the [publication process](/marketing/#software-release)
+- Add to the changelog and the GitHub release the link to the forum's release notes
 
 ### Help
 

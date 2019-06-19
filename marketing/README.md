@@ -38,6 +38,7 @@
   - Description of new features
   - Description of new fixes
   - Call to action to install/update
+  - Link to the related repositories' changelog
 2. Short post on [Twitter](https://twitter.com/mesgfoundation)
   - Link to the forum post
   - Description of main changes

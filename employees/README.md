@@ -102,6 +102,8 @@ All employees get a cool MESG t-shirt and/or polo and some stickers :) YAY!
 - AirBnb
 - Spark
 - Monday
+- Netlify
+
 
 #### DigitalOcean
 - remove from team of

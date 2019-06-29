@@ -92,6 +92,7 @@ All employees get a cool MESG t-shirt and/or polo and some stickers :) YAY!
 #### Remove from team of
 - Discord
 - GitHub
+- NPM
 - Trello
 - 1Password
 - Zeplin
